@@ -1,0 +1,56 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "name": "marca del procesador"
+    },
+    {
+      "id": 2,
+      "name": "procesador"
+    },
+    {
+      "id": 3,
+      "name": "disipador de calor"
+    },
+    {
+      "id": 4,
+      "name": "tarjeta madre"
+    },
+    {
+      "id": 5,
+      "name": "memoria ram"
+    },
+    {
+      "id": 6,
+      "name": "memoria ram adicional"
+    },
+    {
+      "id": 7,
+      "name": "almacenamiento"
+    },
+    {
+      "id": 8,
+      "name": "almacenamiento adicional"
+    },
+    {
+      "id": 9,
+      "name": "tarjeta grafica"
+    },
+    {
+      "id": 10,
+      "name": "gabinete"
+    },
+    {
+      "id": 11,
+      "name": "fuente de poder"
+    },
+    {
+      "id": 12,
+      "name": "ensamblado"
+    },
+    {
+      "id": 13,
+      "name": "resumen"
+    }
+  ]
+}
