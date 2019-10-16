@@ -17,14 +17,80 @@
     "amd": {
       "images": [
         {
-          "id": 2,
-          "name": "intel",
-          "url": "https://ddtech.mx/assets/img/intel.png?1543969492"
+          "id": 3,
+          "name": "Procesador AMD A6-7480 3.5GHz 2 Nucleos Socket FM2+",
+          "url": "https://ddtech.mx/assets/uploads/c85a9f49942f1ab3cbb685bcde8a8549.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Procesador AMD Athlon 240GE APU 3.5GHz / 2 Core / 4 Thread / Con disipador / Radeon VEGA 3 Integrada / Socket AM4 / YD240GC6FBBOX",
+          "url": "https://ddtech.mx/assets/uploads/f6c6a5e5f1fa4e3fd094e6c040dcd93b.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Procesador AMD Ryzen 5 2600 / 6 Core / 12 Thread / 3.4GHz / 3.9GHz Boost / TDP 65W / Wraith Stealth (Requiere Tarjeta de Video) / Gratis 3 Meses de Xbox Game Pass",
+          "url": "https://ddtech.mx/assets/uploads/dcf95c6d724f9f9b5111734d649aec94.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Procesador AMD Ryzen 5 2600X / 6 Core / 12 Thread / 3.6GHz / 4.2GHz Boost / TDP 95W / Wraith Spire (Requiere Tarjeta de Video) / Incluye Gratis 3 Meses de Xbox Game Pass",
+          "url": "https://ddtech.mx/assets/uploads/758f922feafa866771e32c5fdc6bd608.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Procesador AMD Ryzen 7 2700X / 8 Core / 16 Thread / 3.7GHz / 4.3GHz Boost / TDP 105W / Wraith Prism (Requiere Tarjeta de Video) / Gratis 3 Meses de Xbox Game Pass",
+          "url": "https://ddtech.mx/assets/uploads/720c246ff1d3b474a6d5824f662667fa.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Procesador AMD Ryzen 7 3700X / 8 Core / 16 Thread / 3.6GHz / 4.4GHz Boost / TDP 65W / Wraith Prism Whith RGB (Requiere Tarjeta de Video) / Incluye Gratis The Outer Worlds ó Boderlands 3 + 3 Meses de Xbox Game Pass",
+          "url": "https://ddtech.mx/assets/uploads/b820246a51b16bd95fc955df59b5a82e.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Procesador AMD Threadripper 2920X 3.5GHz Turbo 4.2GHz 12 Nucleos 24 Hilos Socket TR4 - YD292XA8AFWOF",
+          "url": "https://ddtech.mx/assets/uploads/5beb5821a4bc5e4d25fb1d5e9c29a29d.jpg"
         }
       ]
     },
     "intel": {
-      "images": []
+      "images": [
+        {
+          "id": 10,
+          "name": "Procesador Intel Celeron G4920 Dual core / 3.20GHz / 2MB Cache / BX80684G4920",
+          "url": "https://ddtech.mx/assets/uploads/d8744bee0a9fb3334c5df56526116bd3.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Procesador Intel Core i3-9100F / 4 Nucleos - 4 Hilos / Socket 1151-V2 (Requiere Tarjeta de Video)",
+          "url": "https://ddtech.mx/assets/uploads/1d3da95d0e7e91764b0e3cbf434c76a2.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Procesador Intel Core i5 7400 3GHz / 3.50GHz 4 Nucleos / Socket 1151",
+          "url": "https://ddtech.mx/assets/uploads/afb839ce5734ec4643c5bc75d28c4ef5.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Procesador Intel Core i5 9400 2.90GHz / 4.10GHz / 6 Nucleos / 6 Hilos / Socket 1151-v2",
+          "url": "https://ddtech.mx/assets/uploads/b752b479f3bddcb3b8b7f484dbe0b044.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Procesador Intel Core i7 7700 3.60GHz / 4.2GHz 4 Nucleos / 8 hilos / Socket 1151",
+          "url": "https://ddtech.mx/assets/uploads/69d941d22ce75aeaee63d6d56d75fc50.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Procesador Intel Core i7 7700K 4.2GHz / 4.5GHz 4 Nucleos / 8 hilos / Socket 1151",
+          "url": "https://ddtech.mx/assets/uploads/25603a48f6643514b9dfdd54ec4d6462.jpg" 
+        },
+        {
+          "id": 16,
+          "name": "Procesador Intel Core i9 9900K 3.60GHz / 5.0GHz / 8 Nucleos / 16 Hilos / Socket 1151-v2 / Requiere disipador de calor",
+          "url": "https://ddtech.mx/assets/uploads/c8d79f1f9d24a4373bc9c04fe03c0a62.jpg" 
+        }
+      ]
     }
   }
 }
