@@ -3,10 +3,12 @@
     "images": [
       {
         "id": 1,
+        "name": "amd",
         "url": "https://ddtech.mx/assets/img/amd.png?1543969502"
       },
       {
         "id": 2,
+        "name": "intel",
         "url": "https://ddtech.mx/assets/img/intel.png?1543969492"
       }
     ]
