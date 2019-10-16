@@ -12,5 +12,19 @@
         "url": "https://ddtech.mx/assets/img/intel.png?1543969492"
       }
     ]
+  },
+  "procesors": {
+    "amd": {
+      "images": [
+        {
+          "id": 2,
+          "name": "intel",
+          "url": "https://ddtech.mx/assets/img/intel.png?1543969492"
+        }
+      ]
+    },
+    "intel": {
+      "images": []
+    }
   }
 }
