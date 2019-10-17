@@ -198,5 +198,51 @@
         "price": 167.75
       }
     ]
+  },
+  "rams": {
+    "images": [
+      {
+        "id": 31,
+        "name": "Memoria RAM Adata 4GB DDR4 2133Mhz / AD4U2133W4G15-S",
+        "url": "https://ddtech.mx/assets/uploads/fe6199d265f62639ee4617598851b454.jpg",
+        "price": 26.50
+      },
+      {
+        "id": 32,
+        "name": "Memoria RAM DDR4 4GB 2400MHz Kingston Hyper X Fury 1 Modulo Negro HX424C15FB3/4",
+        "url": "https://ddtech.mx/assets/uploads/62c3a3b36ef78c82a17c630b6f155db0.jpg",
+        "price": 529.00
+      },
+      {
+        "id": 33,
+        "name": "Memoria RAM DDR4 4GB 2666MHz Kingston Hyper X Fury 1 Modulo Negro HX426C15FB/4",
+        "url": "https://ddtech.mx/assets/uploads/84afacc3354467c6139a81c280791bd9.jpg",
+        "price": 30.75
+      },
+      {
+        "id": 33,
+        "name": "Memoria RAM DDR4 4GB 2400MHz Crucial Ballistix Sport LT Gris / BLS4G4D240FSB",
+        "url": "https://ddtech.mx/assets/uploads/ded15e20b1dc82c994deaac3c7b1568b.jpg",
+        "price": 31.81
+      },
+      {
+        "id": 34,
+        "name": "Memoria RAM 16GB DDR4 Adata XPG Z1 2400Mhz / Roja",
+        "url": "https://ddtech.mx/assets/uploads/f8e1a7487c2999ccf5c25e240e807169.jpg",
+        "price": 155.49
+      },
+      {
+        "id": 36,
+        "name": "Memoria Ram Gskill Ddr4 16gb Flare X Black 2400mhz 2x8 / F4-2400C16D-16GFX",
+        "url": "https://ddtech.mx/assets/uploads/77b67d0a0183126ab85020edf2d1c5fb.jpg",
+        "price": 168.24
+      },
+      {
+        "id": 37,
+        "name": "Memoria Ram Ddr4 16gb 2400mhz Flare X Black Gamer Kit 2x8gb / F4-2400C15D-16GFX",
+        "url": "https://ddtech.mx/assets/uploads/1754ee5a24ff061b998d96c9de87a79b.jpg",
+        "price": 230.38
+      }
+    ]
   }
 }
