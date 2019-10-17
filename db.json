@@ -154,6 +154,49 @@
     ]
   },
   "motherBoards": {
-    "images": []
+    "images": [
+      {
+        "id": 24,
+        "name": "Tarjeta Madre Asrock H310CM-HDV Socket 1151-V2 Intel H310 Mini ITX / DDR4",
+        "url": "https://ddtech.mx/assets/uploads/9f70666aff8aeca87fb9ea155cba157a.jpg",
+        "price": 61.54
+      },
+      {
+        "id": 25,
+        "name": "Tarjeta Madre Gigabyte H310M DS2 Intel H310 Micro ATX",
+        "url": "https://ddtech.mx/assets/uploads/046cf37c69e28805446a8e50fe840117.jpg",
+        "price": 71.45
+      },
+      {
+        "id": 26,
+        "name": "Tarjeta Madre MSI B360M PRO-VH Intel B360 Micro-ATX",
+        "url": "https://ddtech.mx/assets/uploads/c473e129f327927fe5c7a94b8dc603b0.jpg",
+        "price": 82.25
+      },
+      {
+        "id": 27,
+        "name": "Tarjeta Madre ASUS PRIME B360M-A Intel B360 Micro ATX",
+        "url": "https://ddtech.mx/assets/uploads/d7da94b7303351849668c20046ddc28c.jpg",
+        "price": 90.22
+      },
+      {
+        "id": 28,
+        "name": "Tarjeta Madre Asus TUF B360M-Plus Gaming Socket 1151-V2 Intel B360 Micro ATX / DDR4",
+        "url": "https://ddtech.mx/assets/uploads/48457a0c28ce0519d92faffa0a7e4c33.jpg",
+        "price": 126.22
+      },
+      {
+        "id": 29,
+        "name": "Tarjeta Madre ROG STRIX B360-H GAMING Socket 1151-v2 Intel B360 ATX",
+        "url": "https://ddtech.mx/assets/uploads/9aae158cbc1388af9df74bab1b2d6970.jpg",
+        "price": 137.05
+      },
+      {
+        "id": 30,
+        "name": "Tarjeta Madre MSI MAG Z390 Tomahawk Socket 1151-V2 Intel Z390 ATX / DDR4",
+        "url": "https://ddtech.mx/assets/uploads/da3e1f5c42e39e0f2454b57009b8857e.jpg",
+        "price": 167.75
+      }
+    ]
   }
 }
