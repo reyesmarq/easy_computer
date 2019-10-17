@@ -106,5 +106,52 @@
         }
       ]
     }
+  },
+  "heatDissipator": {
+    "images": [
+      {
+        "id": 17,
+        "name": "Utilizar el disipador incluido con el procesador",
+        "url": "https://ddtech.mx/assets/uploads/disipador_incluido.png",
+        "price": 0.00
+      },
+      {
+        "id": 18,
+        "name": "Disipador para CPU Disipador y Ventilador para Procesador Thermaltake Riing Silent 12 Blue - 120mm X1 Intel y AMD / CL-P022-AL12BU-A",
+        "url": "https://ddtech.mx/assets/uploads/0d94148c4e00736be1f63c5ededa7bc1.jpg",
+        "price": 31.81
+      },
+      {
+        "id": 19,
+        "name": "Disipador para CPU Disipador y Ventilador para Procesador Cooler Master Hyper 212 Black Edition - 120mm X1 Intel y AMD / RR-212S-20PK-R1",
+        "url": "https://ddtech.mx/assets/uploads/200a6a65af5ad705b4b05d4c422aa66d.jpg",
+        "price": 41.61
+      },
+      {
+        "id": 20,
+        "name": "Disipador para CPU Cooler Master MasterAir MA410P RGB - 2x120mm - Intel y AMD (Listo para AM4) - MAP-T4PN-220PC-R1",
+        "url": "https://ddtech.mx/assets/uploads/fab8fd2a179a626eae965be20dd0a948.jpg",
+        "price": 51.39
+      },
+      {
+        "id": 21,
+        "name": "Disipador para CPU Be Quiet! Shadow Rock 2 - Intel y AMD (Listo para AM4) - BK013",
+        "url": "https://ddtech.mx/assets/uploads/047fc58f80717029cac5966364d0418d.jpg",
+        "price": 63.14
+      },
+      {
+        "id": 22,
+        "name": "Enfriamiento Liquido Eagle Warrior Cyclone 240 RGB / Intel y AMD / AWC240CYCLONEGW",
+        "url": "https://ddtech.mx/assets/uploads/5d1f969f2220174dfa67c8efb7efe458.jpg",
+        "price": 66.60
+      },
+      {
+        "id": 23,
+        "name": "Sistema de Enfriamiento Liquido AIO Deepcool Captain 120 EX White - 120mmX1 Intel y Amd (Listo para Ryzen e Intel Core) DP-GS-H12L-CT120WA4",
+        "url": "https://ddtech.mx/assets/uploads/07e8bef317b3a5a57975e09357c5883f.jpg",
+        "price": 71.35
+
+      }
+    ]
   }
 }
