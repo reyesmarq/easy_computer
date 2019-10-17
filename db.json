@@ -107,7 +107,7 @@
       ]
     }
   },
-  "heatDissipator": {
+  "heatDissipators": {
     "images": [
       {
         "id": 17,
@@ -150,8 +150,10 @@
         "name": "Sistema de Enfriamiento Liquido AIO Deepcool Captain 120 EX White - 120mmX1 Intel y Amd (Listo para Ryzen e Intel Core) DP-GS-H12L-CT120WA4",
         "url": "https://ddtech.mx/assets/uploads/07e8bef317b3a5a57975e09357c5883f.jpg",
         "price": 71.35
-
       }
     ]
+  },
+  "motherBoards": {
+    "images": []
   }
 }
